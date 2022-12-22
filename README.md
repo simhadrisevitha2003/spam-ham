@@ -1,2 +1,2 @@
 # spam-ham 
-it is a spam ham based classifier
+it is a naive's based spam_ham filter
